@@ -1,17 +1,17 @@
-<h1>1)</h1> <h2>Loo githubis uus repository. Repository on seotud kataloogiga arvutis. Seega loo ka uus kataloog. Parem klahv ja avaneb github pats aken.</h2>
+<h1>1)</h1> <h2>Loo githubis uus repository. Repository on seotud kataloogiga arvutis. Seega loo ka uus kataloog. Parem klahv ja avaneb github bash aken.</h2>
 Ott@Lenovo-PC MINGW64 /g/kool/CSS&HTML/git_portfolio
 $ git init
 Initialized empty Git repository in G:/kool/CSS&HTML/git_portfolio/.git/
 
-2) 
+<h1>2)</h1> <h2>Kogub kokku failid, mis on kataloogis (local)</h2>
 Ott@Lenovo-PC MINGW64 /g/kool/CSS&HTML/git_portfolio (master)
 $ git add -A
 
-3)
+<h1>3)</h1> <h2> Loob ühenduse githubi uue kataloogiga</h2>
 Ott@Lenovo-PC MINGW64 /g/kool/CSS&HTML/git_portfolio (master)
 $ git remote add origin https://github.com/ottpoiss/ottpoiss.github.io.git
 
-4)
+<h1>4)</h1> <h2> Nimetab githubis uuenduse versiooni</h2>
 Ott@Lenovo-PC MINGW64 /g/kool/CSS&HTML/git_portfolio (master)
 $ git commit -m "first"
 [master (root-commit) 3509de3] first
@@ -19,7 +19,7 @@ $ git commit -m "first"
  create mode 100644 index.html
  create mode 100644 style.css
 
-5)
+<h1>5)</h1> <h2> Lükkab failid üles</h2>
 Ott@Lenovo-PC MINGW64 /g/kool/CSS&HTML/git_portfolio (master)
 $ git push origin master
 
