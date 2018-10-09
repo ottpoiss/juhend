@@ -6,6 +6,8 @@ $ git init
 <h1>2)</h1> <h2>Kogub kokku failid, mis on kataloogis (local)</h2>
 <h3>Ott@Lenovo-PC MINGW64 /g/kool/CSS&HTML/git_portfolio (master)</h3>
 $ git add -A
+<h3>NB! korduval failide lugemisl</h3>
+$ git add .
 
 <h1>3)</h1> <h2> Loob ühenduse githubi uue kataloogiga</h2>
 <h3>Ott@Lenovo-PC MINGW64 /g/kool/CSS&HTML/git_portfolio (master)</h3>
@@ -35,3 +37,5 @@ remote:      https://github.com/ottpoiss/ottpoiss.github.io/pull/new/master
 remote:
 To https://github.com/ottpoiss/ottpoiss.github.io.git
  * [new branch]      master -> master></h3>
+
+ 
